@@ -1,3 +1,7 @@
+# Archived
+
+Please go [here](https://github.com/camila314/gd-custom-object) for a much, much better implementation (that's cross-platform too).
+
 # Fully-Functional custom object in Geometry Dash
 This code is an implementation of the first completely custom trigger in GD from scratch. Code is MacOS-only but can probably be ported.
 
