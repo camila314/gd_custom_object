@@ -18,7 +18,7 @@ If you want to build this you need to first download the MacOSX 10.7 SDK. You ca
 
 	The MIT License (MIT)
 
-	Copyright Camden314 2021
+	Copyright camila314 2022
 
 	Permission is hereby granted, free of charge, to any person obtaining a 
 	copy of this software and associated documentation files (the "Software"), 
